@@ -1,6 +1,4 @@
-# Koa 2 + Passport + Mongoose + GraphQL
 
-[![Build Status](https://travis-ci.org/sibelius/koa-passport-mongoose-graphql.svg?branch=master)](https://travis-ci.org/sibelius/koa-passport-mongoose-graphql)
 
 ## Command
 
@@ -27,3 +25,6 @@ npm test
     + [mocha](https://mochajs.org/)
     + [should](https://github.com/shouldjs/should.js)
     + [supertest](https://github.com/visionmedia/supertest)
+
+# words
+词库管理
